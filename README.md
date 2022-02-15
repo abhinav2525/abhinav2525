@@ -8,7 +8,7 @@ $ neofetch
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: MacOS
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: ZSH
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editor: VSCode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: /home/abhinav
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: /home/abhinavkrishna
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
 a@@@@@@@@@@2                                    v@@@@@@@@@@;
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
