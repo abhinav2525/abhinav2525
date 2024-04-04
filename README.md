@@ -3,10 +3,10 @@ $ neofetch
                    .~vVeZNgQBBBQQg9Ze1v~.
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 Abhinav Krishna P.S
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Uptime: 21 years
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Uptime: 24 years
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Code Plugins: Javascript, Python, C++, 2 others...
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: MacOS
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: ZSH
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: warp
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editor: VSCode
  :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: /home/abhinavkrishna
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
